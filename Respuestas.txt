@@ -1,0 +1,15 @@
+1) ¿Qué hubiese sucedido si, en vez de generar un archivo por cada operación
+matemática, hubiésemos programado todo en un mismo archivo?
+
+2) ¿Por qué el mejor camino es generar distintos archivos y luego requerirlos en uno solo?
+
+3) ¿Será esta metodología de trabajo una constante de aquí en adelante?
+
+                RESPUESTAS
+ * Hubiera sido mucho mas desorganizado, mas dificil de programar y se hubiera entendido menos.  
+
+ *Es el mejor camino porque podes dividir el codigo en distintas tareas/modulos, y podes a cada modulo modificarlo de forma independiente sin afectar a toda la aplicacion. Tambien podes reutilizar los modulos cuando quieras, dividiendo las tareas y uniendolas para crear una funcion termina siendo mas facil y claro. 
+
+ *Claramente, dividis las tareas y las trabajas a parte, el codigo termina siendo mas limpio, se lee mejor, podes invocar y usar los modulos de node y de terceros.
+
+
